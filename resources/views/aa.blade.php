@@ -1,7 +1,7 @@
 @extends('menu')
 
 @section('title')
-    aa
+    aaaa
 @endsection
 
 @section('content')
